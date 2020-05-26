@@ -12,3 +12,4 @@ while True:
     except Exception as err:
         print(err)
         browser.close()
+
